@@ -11,7 +11,7 @@
 # *Detalles proyecto*
 > PrestaFácil es una plataforma de servicios financieros enfocada en la gestión de préstamos de forma rápida, segura y accesible. La herramienta permite el acceso únicamente a usuarios registrados, validando su identidad antes de realizar cualquier operación. Además, gestiona préstamos y devoluciones, genera recordatorios y notificaciones según el tiempo de uso, y emite certificados y facturas en caso de incumplimiento.
 
-![Imagen](título_20260405140642.png)
+![Imagen](Img/3%20sin%20título_20260405140642.png)
 
 # *Licencia*
 
