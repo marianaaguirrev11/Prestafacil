@@ -43,7 +43,7 @@ Como beneficios, el sistema permite automatizar procesos, reducir errores humano
 - Subida a GitHub
 
 ## *Cronograma “Diagrama de Gantt"*
-![Imagen](Img/https://github.com/user-attachments/assets/24751fbb-d2ce-47fd-885d-3be44c4c2b67" )
+![Imagen](Img/README.md)
 
 ## **Presupuesto**
 > El proyecto es desarrollado por dos estudiantes, con una dedicación total de 50 horas de trabajo. Estas horas se distribuyen equitativamente, correspondiendo a 25 horas por integrante.
