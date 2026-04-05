@@ -43,6 +43,6 @@ Como beneficios, el sistema permite automatizar procesos, reducir errores humano
 - Subida a GitHub
 
 ## **Presupuesto**
->El proyecto es desarrollado por dos estudiantes, con una dedicación total de 50 horas de trabajo. Estas horas se distribuyen equitativamente, correspondiendo a 25 horas por integrante.
->El valor del trabajo se estima como práctica profesional equivalente a 1, de acuerdo con los lineamientos del proyecto académico.
->Este presupuesto no presenta un pago real, sino una estimación del valor del tiempo invertido en el desarrollo del software.  
+> El proyecto es desarrollado por dos estudiantes, con una dedicación total de 50 horas de trabajo. Estas horas se distribuyen equitativamente, correspondiendo a 25 horas por integrante.
+> El valor del trabajo se estima como práctica profesional equivalente a 1, de acuerdo con los lineamientos del proyecto académico.
+> Este presupuesto no presenta un pago real, sino una estimación del valor del tiempo invertido en el desarrollo del software.  
