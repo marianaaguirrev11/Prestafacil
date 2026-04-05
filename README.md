@@ -22,24 +22,24 @@ Como beneficios, el sistema permite automatizar procesos, reducir errores humano
 
 # *Requisitos de función*
 ## **Requisitos funcionales**
--Registrar usuarios con validaciones.
--Registrar ítems con categoría, precio, ID y estado.
--Realizar pŕestamos solo a usuarios registrados.
--Registrar devoluciones de préstamos activos.
--Generar certificados de devolución.
--Generar venta automática de ítems con más de 30 días.
--Calcular subtotal, impuesto (23%) y total.
--Consultar estado de préstamos.
--Acceder a módulo administrador con usuario y contraseña.
--Generar reportes (préstamos, devoluciones, ventas).
+- Registrar usuarios con validaciones.
+- Registrar ítems con categoría, precio, ID y estado.
+- Realizar pŕestamos solo a usuarios registrados.
+- Registrar devoluciones de préstamos activos.
+- Generar certificados de devolución.
+- Generar venta automática de ítems con más de 30 días.
+- Calcular subtotal, impuesto (23%) y total.
+- Consultar estado de préstamos.
+- Acceder a módulo administrador con usuario y contraseña.
+- Generar reportes (préstamos, devoluciones, ventas).
 
 ## **Requisitos no funcionales**
--El sistema debe ser fácil de usar.
--Debe validar correctamente los datos ingresados.
--Debe almacenar información en archivos planos.
--Debe ser eficiente en tiempo de respuesta.
--Debe garantizar seguridad básica (acceso administrador).
--Debe ser compatible con Python.
--Debe permitir exportar información.
+- El sistema debe ser fácil de usar.
+- Debe validar correctamente los datos ingresados.
+- Debe almacenar información en archivos planos.
+- Debe ser eficiente en tiempo de respuesta.
+- Debe garantizar seguridad básica (acceso administrador).
+- Debe ser compatible con Python.
+- Debe permitir exportar información.
 
  
