@@ -14,7 +14,7 @@
 ![Imagen](Img/3%20sin%20título_20260405140642.png)
 
 # *Licencia*
-
+<a href="https://github.com/marianaaguirrev11/Prestafacil">PrestaFacil</a> © 2026 by <a href="https://github.com/fabiobrav0, https://github.com/marianaaguirrev11">Mariana Aguirre - Fabio Bravo</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 # *Soporte de vision*
 > PrestaFaćil es un sistema de gestión de préstamos desarrollado en Python que permite registrar usuarios, administrar ítems, controlar préstamos y devoluciones, y generar reportes como certificados y facturas.
 El objetivo del sistema es facilitar la organización y control de objetos prestados, evitando pérdidas de información y mejorando el seguimiento de cada préstamo.
