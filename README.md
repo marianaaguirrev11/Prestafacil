@@ -13,3 +13,10 @@
 
 ![Imagen](título_20260405140642.png)
 
+# *Licencia*
+
+# *Soporte de vision*
+> PrestaFaćil es un sistema de gestión de préstamos desarrollado en Python que permite registrar usuarios, administrar ítems, controlar préstamos y devoluciones, y generar reportes como certificados y facturas.
+El objetivo del sistema es facilitar la organización y control de objetos prestados, evitando pérdidas de información y mejorando el seguimiento de cada préstamo.
+Como beneficios, el sistema permite automatizar procesos, reducir errores humanos, mejorar la trazabilidad de los préstamos y ofrecer una solución eficiente y fácil de usar mediante una interfaz en consola.
+
