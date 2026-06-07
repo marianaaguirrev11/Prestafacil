@@ -42,10 +42,19 @@ Como beneficios, el sistema permite automatizar procesos, reducir errores humano
 - Documentación (README y manual)
 - Subida a GitHub
 
-## *Cronograma “Diagrama de Gantt"*
+# *Cronograma “Diagrama de Gantt"*
 ![Imagen](Img/plan)
 
-## **Presupuesto**
+# **Presupuesto**
 > El proyecto es desarrollado por dos estudiantes, con una dedicación total de 50 horas de trabajo. Estas horas se distribuyen equitativamente, correspondiendo a 25 horas por integrante.
 > El valor del trabajo se estima como práctica profesional equivalente a 1, de acuerdo con los lineamientos del proyecto académico.
 > Este presupuesto no presenta un pago real, sino una estimación del valor del tiempo invertido en el desarrollo del software.  
+
+# *Plan de versionado*
+## **Evolución del software**
+- **Versión 0.1.0 (19 de mayo):** Creación del esqueleto general del programa en 'principal.py', diseño del menú interactivo con match-case y el título gigante en arte ASCII.
+- **Versión 0.2.0 (24 de mayo):** Implementación del módulo de registro de usuarios con validaciones de longitud de cédula, control de formato de nombres y filtro para evitar datos duplicados.
+- **Versión 0.3.0 (28 de mayo):** Creación del registro de ítems con asignación automática de ID por categoría, cálculo de estado físico y el filtro de seguridad con clave para el administrador.
+- **Versión 0.4.0 (31 de mayo):** Conexión del sistema de préstamos en la opción 3, validando la existencia del usuario y cambiando la disponibilidad real del artículo a falso.
+- **Versión 0.5.0 (3 de junio):** Módulo de devoluciones con cálculo de días utilizados y activación de alertas por infracción si el préstamo excede el tiempo límite de la plataforma.
+- **Versión 1.0.0 (7 de junio):** Integración final de reportes corporativos en pdf con ReportLab usando líneas vectoriales, balance contable con impuesto del 23%, analítica del administrador y depuración del código. 
