@@ -1,4 +1,4 @@
-# *9. Algoritmo*
+# *Algoritmo*
 
 ## **Estructura del código fuente**
 > El código fuente del proyecto está completamente organizado y contenido dentro de la carpeta obligatoria `src`. El software se diseñó bajo una arquitectura modular para separar la interfaz de usuario de las reglas lógicas del negocio.
